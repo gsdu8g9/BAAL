@@ -14,4 +14,4 @@ chmod +x BAAL.sh
 
 ### Thanks ###
 
-Z0MB13.D00L
+Z0MB13.D0LL
