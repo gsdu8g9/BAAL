@@ -11,3 +11,7 @@
 
 chmod +x BAAL.sh
 ./BAAL.sh
+
+### Thanks ###
+
+Z0MB13.D00L
