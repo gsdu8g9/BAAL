@@ -3,7 +3,7 @@
 # BAAL V 1.0b
 # Date: 30/12/2016
 # Dev: Shell
-# Auteurs: KURO/Z0MB13.D00L
+# Auteurs: KURO/Z0MB13.D0LL
 
 #### Configuration ################################################################################
 mon="mon"
