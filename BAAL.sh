@@ -223,7 +223,7 @@ function EXITMENU {
 	echo
 	sleep 0.5
 	echo
-	echo -e " [$rouge*$blanc] $vert Merci d'avoir utiliser$rouge B$blanc""AAL$blanc [$rouge*$blanc]"
+	echo -e " [$rouge*$blanc] $vert Merci d'avoir utilisé$rouge B$blanc""AAL$blanc [$rouge*$blanc]"
 	sleep 3
 	clear
 	exit
