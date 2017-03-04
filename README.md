@@ -9,8 +9,8 @@
 
 ### RUN ###
 
-chmod +x BAAL.sh
-./BAAL.sh
+* sudo chmod +x BAAL.sh
+* ./BAAL.sh
 
 ### Thanks ###
 
